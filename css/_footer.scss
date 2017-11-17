@@ -1,0 +1,112 @@
+/*--------------------------------------------------------------
+# Footer
+--------------------------------------------------------------*/
+footer {
+  background-color: #49494b;
+  font-weight: 300;
+  color: #eaeaea;
+}
+footer a {
+  color: #fff;
+}
+footer a:hover, footer a:focus {
+  color: #fff;
+  text-decoration: underline;
+}
+footer .container {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+footer .logo {
+  width: 100px;
+  margin-bottom: 15px;
+}
+@media screen and (max-width: 768px) {
+  footer .container {
+    padding: 30px 15px;
+  }
+}
+
+.footer-heading {
+  margin: 0 0 13px 0;
+  font-size: 16px;
+  line-height: 2;
+  color: #fff;
+}
+
+.footer-nav > li {
+  margin-bottom: 10px;
+}
+
+.copyright {
+  padding: 20px 0;
+  background-color: #323232;
+  font-size: 14px;
+}
+
+/* light footer theme */
+.footer-light {
+  background-color: #f2f2f2;
+  font-weight: normal;
+  color: #8f8f8f;
+  border-top: 1px solid #dedede;
+}
+.footer-light a {
+  color: #8f8f8f;
+}
+.footer-light a:hover, .footer-light a:focus {
+  color: #8f8f8f;
+  text-decoration: underline;
+}
+.footer-light .footer-heading {
+  color: #8f8f8f;
+}
+.footer-light .newsletter-form .input-group-lg > .form-control {
+  background: #f7f7f7;
+}
+.footer-light .copyright {
+  background-color: #f2f2f2;
+  border-top: 1px solid #dedede;
+}
+.footer-light .social-icons.dark-icons a {
+  background-color: #858D90;
+}
+.footer-light .social-icons.dark-icons a:hover {
+  background-color: #788084 !important;
+  color: #fff !important;
+}
+
+/* social connect icons */
+ul.social-icons li a {
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+  display: block;
+  width: 50px;
+  height: 50px;
+  font-size: 24px;
+  color: #8f8f8f;
+  text-align: center;
+}
+ul.social-icons li a.facebook-bg:hover, ul.social-icons li a.facebook-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a.twitter-bg:hover, ul.social-icons li a.twitter-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a.github-bg:hover, ul.social-icons li a.github-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a.slack-bg:hover, ul.social-icons li a.slack-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a.linkedin-bg:hover, ul.social-icons li a.linkedin-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a.reddit-bg:hover, ul.social-icons li a.reddit-bg:focus {
+  background-color: #000000;
+}
+ul.social-icons li a i {
+  position: relative;
+  top: 8px;
+}
