@@ -10,7 +10,7 @@
 body {
   background: #fff;
   color: #666666;
-  font-family: "Open Sans", sans-serif;
+  font-family: "Dosis", sans-serif;
 }
 
 a {
@@ -30,7 +30,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Raleway", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -99,7 +99,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .hero-container {
-  background: rgba(0, 0, 0, 0.4);
+  background: rgba(0, 0, 0, 0.2);
   display: table-cell;
   margin: 0;
   padding: 0;
@@ -143,7 +143,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .actions a {
-  font-family: "Raleway", sans-serif;
+  font-family: "Dosis", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -195,7 +195,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0;
   padding: 6px 0;
   line-height: 1;
-  font-family: "Raleway", sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
@@ -289,7 +289,7 @@ h1, h2, h3, h4, h5, h6 {
 /* Nav Meu Container */
 #nav-menu-container {
   float: right;
-  margin: 5px 0;
+  margin: 0px 0;
 }
 
 @media (max-width: 768px) {
@@ -300,13 +300,13 @@ h1, h2, h3, h4, h5, h6 {
 
 /* Nav Meu Styling */
 .nav-menu a {
-  padding: 10px 15px;
+  padding: 10px 10px;
   text-decoration: none;
   display: inline-block;
   color: #fff;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  font-size: 14px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: 150;
+  font-size: 18px;
   outline: none;
 }
 
@@ -579,7 +579,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe .subscribe-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Dosis", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -622,7 +622,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe2 .subscribe-btn {
-  font-family: "Raleway", sans-serif;
+  font-family: "Dosis", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
   font-size: 16px;
@@ -895,7 +895,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*== Body demo class ==*/
 
 .demo {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Dosis", sans-serif;
     font-size: 14px;
     color: #444;
 }
@@ -921,7 +921,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 /*== Footer background color ==*/
 
 .myf .bg-background {
-    background:linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('../img/footer.png') no-repeat;
+    background:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)),url('../img/footer.png') no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
